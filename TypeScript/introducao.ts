@@ -1,2 +1,2 @@
-var a : string = 'Teste TS!'
+var a : string = 'Teste TS (WEB)!'
 console.log(a)
